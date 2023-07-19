@@ -1,6 +1,7 @@
 # Secret Santa Bot 2022
 
-Discord bot that recieves, stores and outputs files using Google API and Discord API for [Amber's Secret Santa 2022](https://www.instagram.com/p/ClMj2R2vLge/). 
+Discord bot that recieves, stores and outputs files for Amber's Secret Santa 2022!
+Event info: https://www.instagram.com/p/ClMj2R2vLge/ 
 Event artwork showcase: https://www.instagram.com/p/CmxKp7Dv6xm/
 
 ![image](https://github.com/amberosia/SecretSantaBot2022/assets/75947401/819000e5-3e5e-472b-aa1c-b7f42777ae9f)
